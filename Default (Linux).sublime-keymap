@@ -1,0 +1,19 @@
+[
+	// Fix comments
+	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+
+	// Fix tabbing
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+	// Toggle Console
+	{ "keys": ["ctrl+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
+    // Context menu (does not work in in sidebar)
+    { "keys": ["ctrl+shift+c"], "command": "context_menu" },
+
+    // Disable w close
+    { "keys": ["ctrl+shift+w"], "command": "noop" },
+	{ "keys": ["ctrl+w"], "command": "noop" },
+]
