@@ -16,4 +16,7 @@
     // Disable w close
     { "keys": ["ctrl+shift+w"], "command": "noop" },
 	{ "keys": ["ctrl+w"], "command": "noop" },
+
+    // Reveal current file in side-bar
+    { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
 ]
