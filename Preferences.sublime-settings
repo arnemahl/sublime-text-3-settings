@@ -1,5 +1,9 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		"node_modules"
+	],
 	"font_size": 12,
 	"hot_exit": false,
 	"ignored_packages":
@@ -7,8 +11,5 @@
 		"Vintage"
 	],
 	"remember_open_files": false,
-	"translate_tabs_to_spaces": true,
-	"folder_exclude_patterns": [
-		"node_modules",
-	],
+	"translate_tabs_to_spaces": true
 }
