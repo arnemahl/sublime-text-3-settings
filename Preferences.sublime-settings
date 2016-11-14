@@ -2,7 +2,8 @@
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"folder_exclude_patterns":
 	[
-		"node_modules"
+		"node_modules",
+		".git",
 	],
 	"font_size": 12,
 	"hot_exit": false,
