@@ -5,6 +5,9 @@
 		"node_modules",
 		".git",
 	],
+	"file_exclude_patterns": [
+		"*.min.js",
+	],
 	"font_size": 12,
 	"hot_exit": false,
 	"ignored_packages":
