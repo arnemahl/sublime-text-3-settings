@@ -1,12 +1,14 @@
 {
+	"atomic_save": false,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.min.js"
+	],
 	"folder_exclude_patterns":
 	[
 		"node_modules",
-		".git",
-	],
-	"file_exclude_patterns": [
-		"*.min.js",
+		".git"
 	],
 	"font_size": 12,
 	"hot_exit": false,
