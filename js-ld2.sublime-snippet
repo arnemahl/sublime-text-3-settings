@@ -1,6 +1,9 @@
 <snippet>
-	<content><![CDATA[
+<!--	<content><![CDATA[
 console.${3:log}(`${1: }:`, ${2: })${4:; // DEBUG}
+]]></content> -->
+    <content><![CDATA[
+console.debug(`${1: }:`, ${2: }); // DEBUG
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ld2</tabTrigger>
