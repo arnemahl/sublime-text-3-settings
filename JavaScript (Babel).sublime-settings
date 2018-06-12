@@ -3,5 +3,6 @@
 	[
 		"jsx",
 		"js"
-	]
+	],
+	"font.face": "Fira Code Retina"
 }
