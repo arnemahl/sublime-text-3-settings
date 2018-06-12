@@ -1,0 +1,8 @@
+[
+    // Disable alt+h which will normally open the Help-menu
+    {
+        "caption": "Help",
+        "mnemonic": "",
+        "id": "help"
+    }
+]
