@@ -1,17 +1,11 @@
 <snippet>
 	<content><![CDATA[
-class ${1:Comp} extends React.Component {
-
-	render() {
-		return ${2:(
-			<div>
-			</div>
-		)};
-	}
-}
+export const ${1:Div} = styled.${2:div}`
+	${3:}
+`;
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>rcc</tabTrigger>
+	<tabTrigger>styc</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.jsx</scope> -->
+	<!-- <scope>source.python</scope> -->
 </snippet>

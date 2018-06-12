@@ -2,8 +2,8 @@
 <!--     <content><![CDATA[
 console.${2:log}(`${1: }:`, ${1: })${3:; // DEBUG}
 ]]></content> -->
-    <content><![CDATA[
-console.debug(`${1: }`, ${1: }); // DEBUG
+	<content><![CDATA[
+console.log(`${1: }`, ${1: }); // DEBUG
 ]]></content>
 
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
