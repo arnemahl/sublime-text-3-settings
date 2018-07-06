@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+preview: {
+	select: {$1},
+	prepare: () => ({
+		title: '$2',
+		subtitle: '',
+		media: '',
+	}),
+},
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>preview</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
