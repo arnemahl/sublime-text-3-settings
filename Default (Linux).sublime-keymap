@@ -19,4 +19,7 @@
 
 	// Reveal current file in side-bar
 	{ "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+
+	// Show console
+	{ "keys": ["ctrl+alt+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
 ]
