@@ -10,13 +10,13 @@
 	// Toggle Console
 	{ "keys": ["ctrl+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
 
-    // Context menu (does not work in in sidebar)
-    { "keys": ["ctrl+shift+c"], "command": "context_menu" },
+	// Context menu (does not work in in sidebar)
+	{ "keys": ["ctrl+shift+c"], "command": "context_menu" },
 
-    // Disable w close
-    { "keys": ["ctrl+shift+w"], "command": "noop" },
+	// Disable w close
+	{ "keys": ["ctrl+shift+w"], "command": "noop" },
 	{ "keys": ["ctrl+w"], "command": "noop" },
 
-    // Reveal current file in side-bar
-    { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+	// Reveal current file in side-bar
+	{ "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
 ]
