@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-const {$1} = ${2:this.props};
+const { $1 } = ${2:this.props};
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>destructure</tabTrigger>
