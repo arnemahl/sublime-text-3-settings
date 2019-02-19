@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-// eslint-disable-line flow/no-weak-types
+// eslint-disable-line flowtype/no-weak-types
 ]]></content>
   <tabTrigger>weak</tabTrigger>
   <scope>source.js</scope>
