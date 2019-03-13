@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+// eslint-disable-next-line default-case
+]]></content>
+  <tabTrigger>esldefault</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
