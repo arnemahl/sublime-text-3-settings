@@ -20,5 +20,6 @@
 	"remember_open_files": false,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"update_check": false
+	"update_check": false,
+	"show_git_status": false,
 }
