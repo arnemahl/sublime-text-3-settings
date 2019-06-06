@@ -3,5 +3,5 @@
 // eslint-disable-next-line default-case
 ]]></content>
   <tabTrigger>esldefault</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js, source.ts, source.tsx</scope>
 </snippet>
