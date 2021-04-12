@@ -25,4 +25,9 @@
 
 	// Show console
 	{ "keys": ["ctrl+alt+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
+	// Mouse prev/next buttons.
+	// When jumping to definition using F12, use mouse back to go back.
+	{ "button": "button8", "command": "jump_back" },
+	{ "button": "button9", "command": "jump_forward" }
 ]
