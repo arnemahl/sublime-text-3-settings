@@ -1,6 +1,6 @@
 {
 	"atomic_save": false,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "GitHub Dark.sublime-color-scheme",
 	"file_exclude_patterns":
 	[
 		"dist/app.js",
@@ -22,5 +22,6 @@
 	"show_git_status": false,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"update_check": false
+	"update_check": false,
+	"theme": "Adaptive.sublime-theme",
 }
