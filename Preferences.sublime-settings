@@ -4,13 +4,15 @@
 	"file_exclude_patterns":
 	[
 		"dist/app.js",
-		"package-lock.json"
+		"package-lock.json",
+		"*.tsbuildinfo",
 	],
 	"folder_exclude_patterns":
 	[
 		"node_modules",
 		".next",
-		".git"
+		".git",
+		".cache",
 	],
 	"font_size": 14,
 	"hot_exit": false,
