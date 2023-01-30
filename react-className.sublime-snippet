@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-className="${1:this}"
+className={styles.$2}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cln</tabTrigger>
